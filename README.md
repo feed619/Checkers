@@ -5,24 +5,23 @@
 
 ---
 
-Welcome to the console game "Checkers"! This is a classic checkers game implemented in the C++ programming language that runs on the command line..
+Welcome to the console game "Checkers". This is a classic checkers game implemented in the C++ programming language that runs on the command line..
 
 ---
 
 ## Installation :
     
-    Download or clone this repository:
+ ### Download or clone this repository:
 
 ```console
 git clone https://github.com/feed619/Checkers.git
----> 100%
 ```
 
 ---
 
 ## Start game :
 
-Open ```console checkers.exe```. In order for the game to launch correctly and without bugs, it is recommended to run it as an administrator.
+Open ```checkers.exe```. In order for the game to launch correctly and without bugs, it is recommended to run it as an administrator.
 
 
 
@@ -39,8 +38,13 @@ Open ```console checkers.exe```. In order for the game to launch correctly and w
 ### Next, you need to enter the position to which you want to move the checker.
 
 <p align="center"><img src="docs/example_3.png" /></p>
+<p align="center"><img src="docs/example_4.png" /></p>
 
+### After a few seconds the bot will make its move.
+<p align="center"><img src="docs/example_5.png" /></p>
 
+### After reaching the opponent's zone, your pawn will become a king.
+<p align="center"><img src="docs/example_6.png" /></p>
 
 ## Feedback:
 
