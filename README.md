@@ -1,6 +1,6 @@
 "# Checkers" 
 <!-- <h1><p align="center">crt</p></h1> -->
-<p align="center"><img src="docs/logo.png" /></p>
+<p align="center"><img src="docs/logo_c.png" /></p>
 <h2><p align="center">console checkers</p></h2>
 
 ---
